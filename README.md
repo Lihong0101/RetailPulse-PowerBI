@@ -100,22 +100,22 @@ flowchart TB
 
 **Before public presentation:** hide the internal `Executive Overview Backup` and `Category Tooltip` pages from standard navigation as appropriate, without breaking tooltip functionality. Add final screenshots to `screenshots/` and replace the placeholders below.
 
-## Dashboard gallery
+## Dashboard Gallery
 
-When ready, export clean, current screenshots from Power BI and store them using these names:
+### Executive Overview
+![Executive Overview](screenshots/Executive%20Overview.jpg)
 
-- `screenshots/01-executive-overview.png`
-- `screenshots/02-profitability-drivers.png`
-- `screenshots/03-product-mix.png`
-- `screenshots/04-returns-operations.png`
-- `screenshots/05-model-diagram.png`
+### Profitability Drivers
+![Profitability Drivers](screenshots/Profitability%20Drivers.jpg)
 
-<!-- Uncomment when screenshots have been added:
-![Executive Overview](screenshots/01-executive-overview.png)
-![Profitability Drivers](screenshots/02-profitability-drivers.png)
-![Product Mix Analysis](screenshots/03-product-mix.png)
-![Returns & Operations](screenshots/04-returns-operations.png)
--->
+### Product Mix Analysis
+![Product Mix Analysis](screenshots/Product%20Mix%20Analysis.jpg)
+
+### Returns & Operations
+![Returns and Operations](screenshots/Returns%20%26%20Operations.jpg)
+
+### Data Model
+![Data Model](screenshots/Model%20View.jpg)
 
 ## Power BI Service, security and refresh
 
