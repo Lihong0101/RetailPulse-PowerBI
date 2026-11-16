@@ -166,7 +166,7 @@ Return Rate % = DIVIDE([Returned Units], [Units Sold])
 
 ## Project artifacts
 
-- `RetailPulse_Final.pbix` — add the **latest locally saved** PBIX before GitHub upload.
+- `powerbi/RetailPulse_Final_QA.pbix` — add the **latest locally saved** PBIX before GitHub upload.
 - `screenshots/` — add clean screenshots listed above.
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — data pipeline and relationships.
 - [`docs/METRIC_DEFINITIONS.md`](docs/METRIC_DEFINITIONS.md) — measures and caveats.
