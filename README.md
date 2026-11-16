@@ -98,7 +98,7 @@ flowchart TB
 | **Product Category Detail** | Drillthrough detail view | Category drillthrough and back navigation |
 | **Category Tooltip** | Contextual product category summary | Report-page tooltip (support page) |
 
-**Before public presentation:** hide the internal `Executive Overview Backup` and `Category Tooltip` pages from standard navigation as appropriate, without breaking tooltip functionality. Add final screenshots to `screenshots/` and replace the placeholders below.
+
 
 ## Dashboard Gallery
 
